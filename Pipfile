@@ -7,6 +7,10 @@ name = "pypi"
 numpy = "*"
 scipy = "*"
 ipykernel = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+gym = "*"
 
 [dev-packages]
 
